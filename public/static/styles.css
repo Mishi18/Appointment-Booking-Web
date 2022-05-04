@@ -1,0 +1,11 @@
+.Dropdown-control,
+.Dropdown-menu div,
+.field-label {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
